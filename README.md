@@ -156,3 +156,8 @@ No internet. No location. No background services.
 - Every module earns its place
 - Configuration before initialization
 - Inspectable, modular, minimal
+
+
+
+the android file is here
+[Download APK](wildnodes-mesh-weather.apk)
